@@ -46,13 +46,9 @@
   h2 {
     word-wrap: break-word;
     padding-top: -0.5rem;
+    margin-bottom: 1.5rem;
     a {
       color: #111;
-      &:hover {
-        color: $blue-link;
-        -webkit-transition: 0.35s;
-        transition: 0.35s;
-      }
     }
   }
   .fa-li {
@@ -61,5 +57,55 @@
     -webkit-transform: rotate(145deg);
     transform: rotate(145deg);
     font-size: 1.6rem;
+  }
+}
+
+.about-img {
+  border-radius: 50%;
+  border: 5px solid #111;
+  margin-left: auto;
+  margin-right: auto;
+  max-width: 265px;
+  padding: 0;
+}
+
+@media (min-width: $tablet-break) {
+  .about-img {
+    float: right;
+    margin: 0 0 0.5rem 0.5rem;
+  }
+}
+
+.button {
+  background-color: #268bd2;
+  border: none;
+  border-radius: 0.25rem;
+  color: #fff;
+  padding: 0.35em 0.89em;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 0.5rem 0;
+  cursor: pointer;
+  &:hover, &:focus {
+    text-decoration: none;
+    background-color: #3696db;
+  }
+}
+
+.underline {
+  border-bottom: 0.2rem solid #3696db;
+  padding-bottom: 0.3rem;
+}
+
+.mfs-social-media {
+  img {
+    display: inline;
+  }
+  a:hover, a:focus {
+    text-decoration: none;
+    opacity: 0.7;
+    transition: 0.5s;
   }
 }
