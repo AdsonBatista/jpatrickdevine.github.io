@@ -13,6 +13,7 @@ title: Projects
 
 * HTML5/CSS3
 * Jekyll
+* Liquid Template Language
 * Responsive Web Design
 
 <a href="https://jpatrickdevine.github.io/hydeaway" title="Hydeaway Demo" class="button"><i class="fas fa-globe"></i> View Demo</a> <a href="https://github.com/jpatrickdevine/hydeaway" title="GitHub Repo" class="button"><i class="fab fa-github"></i> GitHub Repo</a>
@@ -33,6 +34,7 @@ Aside from the overall theme of the blog, I created custom social media buttons 
 
 <div class="mfs-social-media">
   <a href="#"><img src="{{ site.baseurl }}/assets/img/mfs-social-icons/facebook34-5.jpg" alt="Facebook"></a>
+  <a href="#"><img src="{{ site.baseurl }}/assets/img/mfs-social-icons/twitter35-5.jpg" alt="Twitter"></a>
   <a href="#"><img src="{{ site.baseurl }}/assets/img/mfs-social-icons/instagram36.jpg" alt="Instagram"></a>
   <a href="#"><img src="{{ site.baseurl }}/assets/img/mfs-social-icons/pinterest36.jpg" alt="Pinterest"></a>  
 </div>
