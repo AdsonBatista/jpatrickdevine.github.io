@@ -17,8 +17,8 @@ My courses at Peirce revolve around general programming techniques and practices
 
 #### Front-end Web Development
 
-* Jekyll (Static Site Generator)
-* Sass (CSS Preprocessor)
+* Jekyll
+* Sass
 * WordPress
 * JavaScript, the DOM, and jQuery
 * Git and *nix Terminal
