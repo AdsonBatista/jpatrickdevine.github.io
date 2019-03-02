@@ -17,10 +17,12 @@ author:
   url:            https://jpatrickdevine.info
 
 paginate:         3
-plugins:
+plugins_dir:
   - jekyll-feed
   - jekyll-gist
   - jekyll-paginate
+
+gems: [jekyll-paginate]
 
 github:
   repo:           https://github.com/jpatrickdevine/jpatrickdevine.github.io

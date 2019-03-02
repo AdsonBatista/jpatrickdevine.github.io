@@ -47,7 +47,3 @@ Below is an example without the additional HTML:
 ```
 
 These two for-loops simply either include pinned posts, or don't include pinned posts. The block of code including pinned posts is first so that those posts appear first. It's that simple. The only other thing to do is to style a heading or emphasized text above the pinned post which prominently displays 'Pinned Post' or some other indicator.
-
-Here is an example from my theme [Hydeaway](https://github.com/jpatrickdevine/hydeaway/):
-
-{% gist 274f780d234bb1b694e1dfe65b7b17c7 index.html %}

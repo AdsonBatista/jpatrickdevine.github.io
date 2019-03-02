@@ -5,6 +5,8 @@ title: Projects
 
 ## Hydeaway
 
+<span class="post_date">2018</span>
+
 <p class="lead">Hydeaway is a simple <a href="https://jekyllrb.com/">Jekyll</a> theme for personal websites and blogs that updates the original <a href="https://github.com/poole/hyde">Hyde</a> theme and borrows a little from the 'refreshed' <a href="https://github.com/fongandrew/hydeout">Hydeout</a>.</p>
 
 ![Hydeaway]({{ site.baseurl }}/assets/img/hydeaway.png "Hydeaway Screenshot")
@@ -22,7 +24,9 @@ title: Projects
 
 ## Mysterious Fashion Soul
 
-<p class="lead">A fashion and lifestyle WordPress blog connected to various social media sites.</p>
+<span class="post_date">2017</span>
+
+<p class="lead">A fashion and lifestyle WordPress for a local Philly blogger.</p>
 
 ![Mysterious Fashion Soul]({{ site.baseurl }}/assets/img/mfs-screenshots.png "Mysterious Fashion Soul")
 
@@ -40,7 +44,6 @@ Aside from the overall theme of the blog, I created custom social media buttons 
 </div>
 
 ### Skills
-
 
 * HTML5/CSS3
 * WordPress
