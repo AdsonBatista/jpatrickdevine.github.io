@@ -26,7 +26,7 @@ title: Projects
 
 <span class="post_date">2017</span>
 
-<p class="lead">A fashion and lifestyle WordPress for a local Philly blogger.</p>
+<p class="lead">A fashion and lifestyle WordPress blog for a local Philly blogger.</p>
 
 ![Mysterious Fashion Soul]({{ site.baseurl }}/assets/img/mfs-screenshots.png "Mysterious Fashion Soul")
 
