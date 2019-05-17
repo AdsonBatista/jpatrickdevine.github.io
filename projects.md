@@ -3,6 +3,39 @@ layout: page
 title: Projects
 ---
 
+## IT Capstone Project
+
+<span class="post_date">2019</span>
+
+<p class="lead">My capstone project in Programming & Application Development was to create a custom restaurant reservations management console.</p>
+
+For this I first designed a faux restaurant website, added a form to request a reservation, and wrote a script that added the request to a database I had designed.
+
+Then I created a management console in Bootstrap and PHP which does the following:
+* Allows a user (restaurant manager) to log in and out
+* Checks recent un-contacted requests and displays a notification if there are any new ones
+* Allows the user to deny or confirm a reservation request
+* Confirmed requests become reservations that are added to the database
+* A dashboard dynamically displays reservation data depending on the day
+* A guestbook allows to view, add, and delete guest entries from the database
+
+![Bistro! Bistro!]({{ site.baseurl }}/assets/img/bb-screenshot.jpg "Bistro! Bistro! Screenshot")
+<em>Restaurant Website</em>
+
+![B!B! Management Console]({{ site.baseurl }}/assets/img/bb-console-screenshot.jpg "Bistro! Bistro! Console Screenshot")
+<em>Management Console</em>
+
+### Skills
+
+* PHP/MySQL/JavaScript
+* HTML/CSS/Flexbox
+* Materialize/Bootstrap/jQueryUI
+* AWS Lightsail
+
+<a href="http://3.211.161.131/bistrobistro/" title="Bistro! Bistro! Demo" class="button"><i class="fas fa-globe"></i> View Demo</a> <a href="{{ site.baseurl }}/assets/ppt/CapstonePresentationDevine.pptx" title="Project Presentation" class="button"><i class="fas fa-file-powerpoint"></i> Download PowerPoint</a>
+
+---
+
 ## Hydeaway
 
 <span class="post_date">2018</span>
